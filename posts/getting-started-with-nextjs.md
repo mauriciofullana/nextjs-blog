@@ -1,5 +1,5 @@
 ---
-title: 'Getting started with NextJS'
+title: 'Getting started with NextJS!!'
 date: '2022-10-05'
 image: getting-started-nextjs.png
 excerpt: 'NextJS is a React framework for production'
